@@ -8,9 +8,9 @@
 
 ## Descripción del proyecto
 
-Este proyecto consiste en el análisis de un CRM de ventas mediante Power BI, con el objetivo de transformar los datos comerciales en información útil para la toma de decisiones.
+Este proyecto consiste en el análisis de un CRM de ventas mediante Power BI con el objetivo de transformar los datos comerciales en información útil para la toma de decisiones.
 
-A través del modelado de datos, la creación de KPIs y el desarrollo de dashboards interactivos, se analizan el rendimiento comercial, los clientes estratégicos y las oportunidades de crecimiento del negocio.
+A través de diferentes dashboards interactivos se analizan indicadores clave de rendimiento, resultados comerciales, comportamiento de clientes y oportunidades de negocio, finalizando con una página de insights y recomendaciones basadas en los datos.
 
 ---
 
@@ -18,9 +18,10 @@ A través del modelado de datos, la creación de KPIs y el desarrollo de dashboa
 
 - Analizar el rendimiento comercial de la organización.
 - Identificar los equipos y vendedores con mejores resultados.
-- Detectar clientes estratégicos y oportunidades de fidelización.
+- Detectar clientes estratégicos.
 - Analizar los sectores con mayor generación de ingresos.
-- Generar insights de negocio y recomendaciones basadas en datos.
+- Extraer conclusiones de negocio a partir de los datos.
+- Proponer recomendaciones orientadas a la toma de decisiones.
 
 ---
 
@@ -47,23 +48,23 @@ Incluye:
 - Ingresos por vendedor
 - Ingresos por producto
 
-![Resumen CRM](images/resumen_ventas_crm.png)
+![Resumen CRM](resumen_ventas_crm.png)
 
 ---
 
 ## Dashboard 2 - Análisis por Vendedor
 
-Análisis del desempeño comercial de los equipos de ventas.
+Análisis del rendimiento comercial de los equipos de ventas.
 
 Incluye:
 
-- Ingresos totales por manager
+- Ingresos por manager
 - Win Rate
 - Ventas cerradas por mes
 - Distribución de oportunidades
 - Productos con mayor volumen de ventas
 
-![Análisis por Vendedor](images/analisis_vendedor.png)
+![Análisis por Vendedor](analisis_vendedor.png)
 
 ---
 
@@ -79,7 +80,7 @@ Incluye:
 - Análisis por sector
 - Win Rate
 
-![Análisis de Clientes](images/analisis_clientes.png)
+![Análisis de Clientes](analisis_clientes.png)
 
 ---
 
@@ -106,7 +107,7 @@ Los sectores Retail, Technology y Medical concentran la mayor parte de los ingre
 - Reforzar recursos comerciales en los sectores más rentables.
 - Analizar oportunidades de mejora en sectores con menor rendimiento.
 
-![Insights y Recomendaciones](images/insights_recomendaciones.png)
+![Insights y Recomendaciones](insights_recomendaciones.png)
 
 ---
 
